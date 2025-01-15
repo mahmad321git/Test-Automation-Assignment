@@ -1,5 +1,5 @@
 # Test-Automation-Assignment
-Rest API Taks
+Rest API Tasks
 
 The Java framework above uses RestAssured and TestNG to automate API tests for the specified task. Key features include:
 
